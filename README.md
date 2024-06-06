@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My Name is Leonardo Nickholas Andrianto and now I'm studying business information systems @ petra christian university. I will graduate in 2025.</p>
+<p align="left">My Name is Leonardo Nickholas Andrianto and now I'm studying business information systems @ Petra Christian University. I will graduate in 2025.</p>
 
 ###
 
