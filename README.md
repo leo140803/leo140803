@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My Name is Leonardo Nickholas Andrianto and now I'm studying business information systems @ Petra Christian University. I will graduate in 2025.</p>
+<p align="left">My Name is Leonardo Nickholas Andrianto and now I'm studying business information systems @ petra christian university. I will graduate in 2025.</p>
 
 ###
 
@@ -36,6 +36,8 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
 ###
