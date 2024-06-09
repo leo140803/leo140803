@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!! 🤪</h1>
+<h1 align="left">Hello World!!</h1>
 
 ###
 
@@ -38,6 +38,10 @@
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
 </div>
 
 ###
